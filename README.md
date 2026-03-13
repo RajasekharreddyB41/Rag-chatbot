@@ -12,6 +12,12 @@ A production-grade RAG (Retrieval Augmented Generation) chatbot that lets you up
 
 ---
 
+## 📸 Screenshot
+
+![RAG Chatbot UI](screenshot.png.png)
+
+---
+
 ## ✨ Features
 
 - **Multi-format document ingestion** — PDF, DOCX, TXT, Markdown, and CSV files supported out of the box
